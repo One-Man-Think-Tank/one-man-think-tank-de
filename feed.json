@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "one-man-think-tank-de",
+    "description": "",
+    "home_page_url": "https://one-man-think-tank.github.io/one-man-think-tank-de",
+    "feed_url": "https://one-man-think-tank.github.io/one-man-think-tank-de/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ralf Westphal"
+    },
+    "items": [
+        {
+            "id": "https://one-man-think-tank.github.io/one-man-think-tank-de/homepage.html",
+            "url": "https://one-man-think-tank.github.io/one-man-think-tank-de/homepage.html",
+            "title": "Homepage",
+            "summary": " Welcome! ",
+            "content_html": "\n  <p>\n    Welcome!\n  </p>",
+            "author": {
+                "name": "Ralf Westphal"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-31T17:10:48+02:00",
+            "date_modified": "2021-01-31T17:10:48+02:00"
+        }
+    ]
+}
