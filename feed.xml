@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>one-man-think-tank-de</title>
-    <link href="https://one-man-think-tank.github.io/one-man-think-tank-de/feed.xml" rel="self" />
-    <link href="https://one-man-think-tank.github.io/one-man-think-tank-de" />
+    <link href="https://one-man-think-tank.de/feed.xml" rel="self" />
+    <link href="https://one-man-think-tank.de" />
     <updated>2021-01-31T17:10:48+02:00</updated>
     <author>
         <name>Ralf Westphal</name>
     </author>
-    <id>https://one-man-think-tank.github.io/one-man-think-tank-de</id>
+    <id>https://one-man-think-tank.de</id>
 
     <entry>
         <title>Homepage</title>
         <author>
             <name>Ralf Westphal</name>
         </author>
-        <link href="https://one-man-think-tank.github.io/one-man-think-tank-de/homepage.html"/>
-        <id>https://one-man-think-tank.github.io/one-man-think-tank-de/homepage.html</id>
+        <link href="https://one-man-think-tank.de/homepage.html"/>
+        <id>https://one-man-think-tank.de/homepage.html</id>
 
         <updated>2021-01-31T17:10:48+02:00</updated>
             <summary>
